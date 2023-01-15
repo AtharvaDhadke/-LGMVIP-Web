@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  background: #1c1f2a;
+
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  text-shadow: 0.2;
+}
+
+

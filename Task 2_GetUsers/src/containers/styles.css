@@ -1,0 +1,17 @@
+.app{
+  margin-left: 36%;
+  margin-top: 9%;
+}
+
+.copy{
+  margin-left: 20%;
+  text-align: center;
+  width: 1000px;
+  height: 50px;
+  color:rgb(0, 0, 0);
+  background-color: rgb(149, 196, 236);
+  border-radius:20px ;
+  font-size: 40px;
+}
+
+
